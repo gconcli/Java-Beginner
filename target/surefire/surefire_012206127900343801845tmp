@@ -1,0 +1,11 @@
+#surefire_0
+#Tue Sep 19 10:32:32 BRT 2023
+basedir=C\:\\Users\\182310052\\Documents\\NetBeansProjects\\mavenproject1
+forkMode=once
+jpda.address=58027
+jpda.listen=true
+localRepository=C\:\\Users\\182310052\\.m2\\repository
+maven.ext.class.path=C\:\\Program Files\\NetBeans-14\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+maven.surefire.debug=-agentlib\:jdwp\=transport\=dt_socket,server\=n,address\=58027
+test=com.mycompany.mavenproject1.Mavenproject1NGTest
+user.dir=C\:\\Users\\182310052\\Documents\\NetBeansProjects\\mavenproject1
